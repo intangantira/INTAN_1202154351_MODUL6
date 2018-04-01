@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1072799476650",
+    "firebase_url": "https://intanmodul6.firebaseio.com",
+    "project_id": "intanmodul6",
+    "storage_bucket": "intanmodul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072799476650:android:fb43683ac9e62a96",
+        "android_client_info": {
+          "package_name": "com.example.android.intangantira_1202154351_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072799476650-ra236v1d7d29biea75n7jaauhku4es0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.intangantira_1202154351_modul6",
+            "certificate_hash": "cdfdf4eb2e095bdd7eeb8107e3cc23ae2efbe7ef"
+          }
+        },
+        {
+          "client_id": "1072799476650-q8r958jvs1af60s61am3hpua2bpq74l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApdXM8q953782e1nnkaQn_99AI1LW6eZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072799476650-q8r958jvs1af60s61am3hpua2bpq74l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
